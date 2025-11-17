@@ -274,7 +274,7 @@ async def crawl_article(url):
             if id_match:
                 article_id = id_match.group(1)
             
-            # 데이터 구조 초기화 (크롤링방법.txt 기준)
+            # 데이터 구조 초기화 (columns_structure.json 기준)
             result = {
                 '메타정보': {
                     '매물ID': article_id,
@@ -299,6 +299,7 @@ async def crawl_article(url):
                 },
                 '단지정보': {},
                 '개발예정': [],
+                '시설정보': {},
                 '중개사': {},
                 '중개보수': {},
                 '세금': {},
@@ -328,9 +329,14 @@ async def crawl_article(url):
             print("4. 관리비 상세보기 클릭...")
             mgmt_clicked = await click_button_with_text(page, ['관리비', '상세보기'], "관리비 상세보기")
             
-            # 관리비 상세 데이터 수집 후 닫기
+            # 관리비 상세 데이터 수집
+            mgmt_detail_text = ""
             if mgmt_clicked:
                 await random_sleep(1, 1.5)
+                # 관리비 상세 데이터 수집
+                mgmt_detail_text = await page.evaluate("() => document.body.innerText")
+                print("     ✓ 관리비 상세 데이터 수집 완료")
+                
                 # 닫기 버튼 클릭
                 close_clicked = await click_button_with_text(page, ['닫기', '닫기'], "관리비 닫기")
                 if not close_clicked:
@@ -345,25 +351,17 @@ async def crawl_article(url):
             page_text = await page.evaluate("() => document.body.innerText")
             
             # === 매물정보 추출 ===
-            # 단지명 + 동
-            complex_match = re.search(r'([가-힣\s]+(?:아파트|빌라|오피스텔))\s*(\d+동)', page_text)
-            if complex_match:
-                result['매물정보']['단지명'] = complex_match.group(1).strip()
-                result['매물정보']['동'] = complex_match.group(2)
-            
-            # 면적/층/향 정보
-            area_floor_match = re.search(r'(아파트|빌라|오피스텔)(\d+)㎡\s*\(전용(\d+)\)(\d+)/(\d+)층([가-힣]+향)', page_text)
-            if area_floor_match:
-                result['매물정보']['공급면적_제곱미터'] = int(area_floor_match.group(2))
-                result['매물정보']['전용면적_제곱미터'] = int(area_floor_match.group(3))
-                result['매물정보']['해당층'] = int(area_floor_match.group(4))
-                result['매물정보']['총층수'] = int(area_floor_match.group(5))
-                result['매물정보']['향'] = area_floor_match.group(6)
-            
-            # 매물 설명
-            desc_match = re.search(r'향\s*([^\n]+(?:올수리|급매|추천|깨끗|넓은)[^\n]*)', page_text)
-            if desc_match:
-                result['매물정보']['매물설명'] = desc_match.group(1).strip()
+            # 기본정보에서 이미 수집된 데이터 활용
+            if '공급면적_제곱미터' in result['기본정보']:
+                result['매물정보']['공급면적_제곱미터'] = result['기본정보']['공급면적_제곱미터']
+            if '전용면적_제곱미터' in result['기본정보']:
+                result['매물정보']['전용면적_제곱미터'] = result['기본정보']['전용면적_제곱미터']
+            if '해당층' in result['기본정보']:
+                result['매물정보']['해당층'] = result['기본정보']['해당층']
+            if '총층수' in result['기본정보']:
+                result['매물정보']['총층수'] = result['기본정보']['총층수']
+            if '향' in result['기본정보']:
+                result['매물정보']['향'] = result['기본정보']['향']
             
             # 집주인확인매물
             if '집주인확인매물' in page_text:
@@ -513,6 +511,50 @@ async def crawl_article(url):
             if first_post_match:
                 result['기본정보']['최초게재일'] = f"{first_post_match.group(1)}-{first_post_match.group(2).zfill(2)}-{first_post_match.group(3).zfill(2)}"
                 result['기본정보']['제공업체'] = first_post_match.group(4)
+            
+            # === 시설정보 추출 ===
+            # 기본 시설 목록
+            facilities = {
+                '벽걸이에어컨': ['벽걸이에어컨', '벽걸이 에어컨', '에어컨'],
+                '신발장': ['신발장'],
+                '냉장고': ['냉장고'],
+                '세탁기': ['세탁기'],
+                '싱크대': ['싱크대'],
+                '인덕션': ['인덕션'],
+                '레인지': ['레인지', '가스레인지'],
+                '엘리베이터': ['엘리베이터', 'EV']
+            }
+            
+            # 기본 시설 체크
+            for facility_key, keywords in facilities.items():
+                for keyword in keywords:
+                    if keyword in page_text:
+                        result['시설정보'][facility_key] = True
+                        break
+                else:
+                    result['시설정보'][facility_key] = False
+            
+            # 추가 시설 자동 감지 (옵션/시설 섹션에서)
+            # "옵션" 또는 "시설" 키워드 근처의 텍스트에서 추가 항목 찾기
+            option_patterns = [
+                r'옵션[^\n]*?([가-힣]+(?:장|기|대|기기|시설))',
+                r'시설[^\n]*?([가-힣]+(?:장|기|대|기기|시설))',
+                r'포함[^\n]*?([가-힣]+(?:장|기|대|기기|시설))'
+            ]
+            
+            additional_facilities = set()
+            for pattern in option_patterns:
+                matches = re.finditer(pattern, page_text)
+                for match in matches:
+                    facility_name = match.group(1).strip()
+                    # 이미 있는 시설이 아니고, 2글자 이상인 경우만
+                    if facility_name not in facilities and len(facility_name) >= 2:
+                        additional_facilities.add(facility_name)
+            
+            # 추가 시설을 시설정보에 추가
+            for facility in additional_facilities:
+                if facility in page_text:
+                    result['시설정보'][facility] = True
             
             print("   ✓ 완료\n")
             
@@ -805,20 +847,28 @@ async def crawl_article(url):
             # === 관리비 추출 ===
             print("12. 관리비 상세 추출...")
             
-            recent_mgmt_match = re.search(r'(\d{4})\.\s*(\d{2})\.\s*([\d,]+)원', page_text)
+            # 관리비 상세보기에서 수집한 데이터 사용
+            mgmt_source = mgmt_detail_text if mgmt_detail_text else page_text
+            
+            # 기본 관리비 정보 (기본정보에서 가져오기)
+            if '관리비_만원' in result['기본정보']:
+                result['관리비']['관리비_만원'] = result['기본정보']['관리비_만원']
+            
+            # 관리비 상세 정보 (더 유연한 패턴)
+            recent_mgmt_match = re.search(r'(\d{4})[.\s]*(\d{1,2})[.\s]*([\d,]+)\s*원', mgmt_source)
             if recent_mgmt_match:
-                result['관리비']['기준년월'] = f"{recent_mgmt_match.group(1)}-{recent_mgmt_match.group(2)}"
+                result['관리비']['기준년월'] = f"{recent_mgmt_match.group(1)}-{recent_mgmt_match.group(2).zfill(2)}"
                 result['관리비']['최근관리비_원'] = int(recent_mgmt_match.group(3).replace(',', ''))
             
-            avg_match = re.search(r'월 평균\s*([\d,]+)원', page_text)
+            avg_match = re.search(r'월\s*평균[:\s]*([\d,]+)\s*원', mgmt_source)
             if avg_match:
                 result['관리비']['월평균_원'] = int(avg_match.group(1).replace(',', ''))
             
-            summer_match = re.search(r'여름\(6월~8월\)\s*평균\s*([\d,]+)원', page_text)
+            summer_match = re.search(r'여름[^\d]*([\d,]+)\s*원', mgmt_source)
             if summer_match:
                 result['관리비']['여름평균_원'] = int(summer_match.group(1).replace(',', ''))
             
-            winter_match = re.search(r'겨울\(12월~2월\)\s*평균\s*([\d,]+)원', page_text)
+            winter_match = re.search(r'겨울[^\d]*([\d,]+)\s*원', mgmt_source)
             if winter_match:
                 result['관리비']['겨울평균_원'] = int(winter_match.group(1).replace(',', ''))
             
@@ -878,61 +928,86 @@ async def crawl_article(url):
                 print(f"  [{idx+2}] {tab_name} 탭 크롤링...")
                 
                 try:
-                    # 탭 클릭
-                    buttons = await page.query_selector_all('button, a, div[role="tab"], span')
-                    tab_found = False
-                    
-                    for btn in buttons:
-                        try:
-                            text = await btn.inner_text()
-                            if text and text.strip() == tab_name:
-                                is_visible = await btn.is_visible()
-                                if not is_visible:
-                                    continue
-                                
-                                box = await btn.bounding_box()
-                                if box:
-                                    await page.evaluate(f"window.scrollTo(0, {box['y'] - 200})")
-                                    await random_sleep(0.3, 0.6)
-                                    await page.mouse.move(
-                                        box['x'] + box['width'] / 2,
-                                        box['y'] + box['height'] / 2
-                                    )
-                                    await random_sleep(0.2, 0.4)
-                                
-                                await btn.click()
-                                await random_sleep(2, 3)
-                                tab_found = True
-                                break
-                        except:
+                    # 탭 클릭 (첫 번째 탭은 이미 선택되어 있을 수 있음)
+                    if idx > 1:  # 매매 탭이 아닌 경우만 클릭
+                        buttons = await page.query_selector_all('button, a, div[role="tab"], span')
+                        tab_found = False
+                        
+                        for btn in buttons:
+                            try:
+                                text = await btn.inner_text()
+                                if text and text.strip() == tab_name:
+                                    is_visible = await btn.is_visible()
+                                    if not is_visible:
+                                        continue
+                                    
+                                    box = await btn.bounding_box()
+                                    if box:
+                                        await page.evaluate(f"window.scrollTo(0, {box['y'] - 200})")
+                                        await random_sleep(0.3, 0.6)
+                                        await page.mouse.move(
+                                            box['x'] + box['width'] / 2,
+                                            box['y'] + box['height'] / 2
+                                        )
+                                        await random_sleep(0.2, 0.4)
+                                    
+                                    await btn.click()
+                                    await random_sleep(2, 3)
+                                    tab_found = True
+                                    break
+                            except:
+                                continue
+                        
+                        if not tab_found:
+                            print(f"     ℹ {tab_name} 탭 없음")
                             continue
-                    
-                    if not tab_found and idx > 1:
-                        print(f"     ℹ {tab_name} 탭 없음")
-                        continue
+                    else:
+                        # 매매 탭은 기본 선택되어 있음
+                        await random_sleep(1, 1.5)
                     
                     # 데이터 추출
                     await random_sleep(1, 1.5)
                     trade_page_text = await page.evaluate("() => document.body.innerText")
                     
                     transactions = []
-                    pattern = re.compile(r'(\d{1,2})\.(\d{1,2})\.\s*(?:[\d.]+\s*)?(\d+)층\s*([^\n]*?)([\d억,\s/]+)')
+                    # 더 유연한 패턴들
+                    patterns = [
+                        re.compile(r'(\d{1,2})[./](\d{1,2})[./]\s*(?:[\d.]+\s*)?(\d+)\s*층\s*([^\n]*?)([\d억,\s/]+)'),
+                        re.compile(r'(\d{4})[.-](\d{1,2})[.-](\d{1,2})\s*(\d+)\s*층\s*([^\n]*?)([\d억,\s/]+)'),
+                        re.compile(r'(\d{1,2})[./](\d{1,2})\s+(\d+)층\s+([\d억,\s/]+)'),
+                    ]
                     
-                    for match in pattern.finditer(trade_page_text):
-                        month = match.group(1).zfill(2)
-                        day = match.group(2).zfill(2)
-                        floor = int(match.group(3))
-                        note = match.group(4).strip()
-                        price = match.group(5).strip()
-                        price = re.sub(r'\n.*', '', price)
-                        
-                        trans = {
-                            '계약일': f"2025-{month}-{day}",
-                            '층': floor,
-                            '가격': price,
-                            '비고': note
-                        }
-                        transactions.append(trans)
+                    for pattern in patterns:
+                        for match in pattern.finditer(trade_page_text):
+                            try:
+                                if len(match.groups()) >= 5:  # 전체 패턴
+                                    month = match.group(1) if len(match.group(1)) <= 2 else match.group(2)
+                                    day = match.group(2) if len(match.group(1)) <= 2 else match.group(3)
+                                    floor = int(match.group(3) if len(match.group(1)) <= 2 else match.group(4))
+                                    note = match.group(4) if len(match.group(1)) <= 2 else match.group(5)
+                                    price = match.group(5) if len(match.group(1)) <= 2 else match.group(6)
+                                else:  # 간단한 패턴
+                                    month = match.group(1)
+                                    day = match.group(2)
+                                    floor = int(match.group(3))
+                                    note = ""
+                                    price = match.group(4)
+                                
+                                month = month.zfill(2)
+                                day = day.zfill(2)
+                                price = price.strip()
+                                price = re.sub(r'\n.*', '', price)
+                                note = note.strip() if note else ""
+                                
+                                trans = {
+                                    '계약일': f"2025-{month}-{day}",
+                                    '층': floor,
+                                    '가격': price,
+                                    '비고': note
+                                }
+                                transactions.append(trans)
+                            except:
+                                continue
                     
                     # 중복 제거
                     seen = set()
@@ -973,13 +1048,6 @@ async def crawl_article(url):
             print(f"개발예정: {len(result['개발예정'])}개")
             print(f"{'='*80}\n")
             
-            # 파일 저장
-            filename = f'article_v3_{article_id}_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'
-            with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(result, f, ensure_ascii=False, indent=2)
-            
-            print(f"✅ 저장 완료: {filename}\n")
-            
             return result
             
         except Exception as e:
@@ -989,7 +1057,7 @@ async def crawl_article(url):
             return None
             
         finally:
-            wait_time = random.randint(8, 12)
+            wait_time = 1  # 대기 시간 단축
             print(f"브라우저를 {wait_time}초 후 종료합니다...")
             await asyncio.sleep(wait_time)
             await browser.close()
@@ -997,27 +1065,110 @@ async def crawl_article(url):
 async def main():
     """메인 함수"""
     
-    url = "https://fin.land.naver.com/articles/2561654187"
-    
     print("\n" + "="*80)
     print("네이버 부동산 매물 크롤러 v3")
     print("크롤링방법.txt 기반 완전 재구성 버전")
     print("="*80)
     print("\n[기능]")
-    print("  ✓ 컬럼 구조 재정리 (크롤링방법.txt 기준)")
+    print("  ✓ 컬럼 구조 재정리 (columns_structure.json 기준)")
     print("  ✓ 동적 크롤링 순서 명확화")
     print("  ✓ 이미지 수집 기능")
+    print("  ✓ 시설정보 자동 감지")
     print("  ✓ 관리비 상세보기 동적 크롤링")
     print("  ✓ 실거래가 상세보기 → 매매/전세/월세 탭 크롤링")
     print("  ✓ 크롤링 방지 우회 (랜덤 User-Agent, 타임슬립, 사람처럼 스크롤)")
+    print("="*80)
     print()
     
-    result = await crawl_article(url)
+    # 1. URL 데이터 파일 경로 입력
+    url_file_path = input("URL 데이터 파일 경로를 입력하세요: ").strip()
     
-    if result:
-        print("\n✅ 크롤링 성공!")
-    else:
-        print("\n❌ 크롤링 실패")
+    # 파일 존재 확인
+    if not os.path.exists(url_file_path):
+        print(f"❌ 파일을 찾을 수 없습니다: {url_file_path}")
+        return
+    
+    # 2. 저장 경로 입력
+    save_dir = input("결과 저장 경로를 입력하세요: ").strip()
+    
+    # 저장 폴더 생성
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+        print(f"✓ 저장 폴더 생성: {save_dir}")
+    
+    # 3. URL 데이터 파일 읽기
+    try:
+        with open(url_file_path, 'r', encoding='utf-8') as f:
+            url_data = json.load(f)
+        
+        url_list = url_data.get('URL목록', [])
+        total_urls = len(url_list)
+        
+        if total_urls == 0:
+            print("❌ URL목록이 비어있습니다.")
+            return
+        
+        print(f"\n✓ URL 데이터 로드 완료")
+        print(f"  - 총 URL 수: {total_urls}개")
+        print(f"  - 크롤링 대상: 상위 3개")
+        print()
+        
+    except Exception as e:
+        print(f"❌ URL 데이터 파일 읽기 실패: {e}")
+        return
+    
+    # 4. 상위 3개 URL 크롤링
+    target_urls = url_list[:3]
+    success_count = 0
+    fail_count = 0
+    
+    for idx, url_info in enumerate(target_urls, 1):
+        url = url_info.get('URL', '')
+        article_id = url_info.get('매물ID', 'unknown')
+        
+        print(f"\n{'='*80}")
+        print(f"[{idx}/3] 매물 크롤링 시작")
+        print(f"매물ID: {article_id}")
+        print(f"URL: {url}")
+        print(f"{'='*80}\n")
+        
+        try:
+            # 크롤링 실행
+            result = await crawl_article(url)
+            
+            if result:
+                # 파일 저장
+                filename = f'article_v3_{article_id}_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'
+                filepath = os.path.join(save_dir, filename)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    json.dump(result, f, ensure_ascii=False, indent=2)
+                
+                print(f"\n✅ [{idx}/3] 크롤링 성공!")
+                print(f"   저장 위치: {filepath}")
+                success_count += 1
+            else:
+                print(f"\n❌ [{idx}/3] 크롤링 실패")
+                fail_count += 1
+        
+        except Exception as e:
+            print(f"\n❌ [{idx}/3] 크롤링 중 오류 발생: {e}")
+            fail_count += 1
+        
+        # 다음 크롤링 전 대기 (마지막 URL이 아닌 경우)
+        if idx < len(target_urls):
+            wait_time = random.uniform(1, 2.5)
+            print(f"\n⏳ 다음 크롤링까지 {wait_time:.1f}초 대기...\n")
+            await asyncio.sleep(wait_time)
+    
+    # 5. 최종 결과 출력
+    print(f"\n{'='*80}")
+    print("전체 크롤링 완료")
+    print(f"{'='*80}")
+    print(f"성공: {success_count}개")
+    print(f"실패: {fail_count}개")
+    print(f"저장 위치: {save_dir}")
+    print(f"{'='*80}\n")
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 24,
+    "단지ID": "100418",
+    "단지명": "아파트18세대1975. 11.(51년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/100418?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T03:29:31.357115",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561098776",
+      "URL": "https://fin.land.naver.com/articles/2561098776",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560204450",
+      "URL": "https://fin.land.naver.com/articles/2560204450",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557127271",
+      "URL": "https://fin.land.naver.com/articles/2557127271",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556899095",
+      "URL": "https://fin.land.naver.com/articles/2556899095",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

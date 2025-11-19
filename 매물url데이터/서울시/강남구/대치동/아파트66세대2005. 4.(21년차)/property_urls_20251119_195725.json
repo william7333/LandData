@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 44,
+    "단지ID": "22573",
+    "단지명": "아파트66세대2005. 4.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/22573?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T19:57:25.011307",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562287979",
+      "URL": "https://fin.land.naver.com/articles/2562287979",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562230790",
+      "URL": "https://fin.land.naver.com/articles/2562230790",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561978926",
+      "URL": "https://fin.land.naver.com/articles/2561978926",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560625644",
+      "URL": "https://fin.land.naver.com/articles/2560625644",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558378568",
+      "URL": "https://fin.land.naver.com/articles/2558378568",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558580545",
+      "URL": "https://fin.land.naver.com/articles/2558580545",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

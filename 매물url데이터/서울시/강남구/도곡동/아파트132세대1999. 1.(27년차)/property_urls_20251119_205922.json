@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 34,
+    "단지ID": "334",
+    "단지명": "아파트132세대1999. 1.(27년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/334?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:59:22.646595",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562103024",
+      "URL": "https://fin.land.naver.com/articles/2562103024",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561597431",
+      "URL": "https://fin.land.naver.com/articles/2561597431",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560202033",
+      "URL": "https://fin.land.naver.com/articles/2560202033",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562159224",
+      "URL": "https://fin.land.naver.com/articles/2562159224",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561441896",
+      "URL": "https://fin.land.naver.com/articles/2561441896",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561441834",
+      "URL": "https://fin.land.naver.com/articles/2561441834",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

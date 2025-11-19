@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 80,
+    "단지ID": "18190",
+    "단지명": "아파트19세대1996. 3.(30년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/18190?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:32:22.926638",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561443350",
+      "URL": "https://fin.land.naver.com/articles/2561443350",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560883718",
+      "URL": "https://fin.land.naver.com/articles/2560883718",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561404236",
+      "URL": "https://fin.land.naver.com/articles/2561404236",
+      "매물정보": "네이버페이 부동산에서 보기"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 54,
+    "단지ID": "152278",
+    "단지명": "아파트42세대2022. 9.(4년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/152278?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:00:52.866439",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561907208",
+      "URL": "https://fin.land.naver.com/articles/2561907208",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558295458",
+      "URL": "https://fin.land.naver.com/articles/2558295458",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559286996",
+      "URL": "https://fin.land.naver.com/articles/2559286996",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556518971",
+      "URL": "https://fin.land.naver.com/articles/2556518971",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

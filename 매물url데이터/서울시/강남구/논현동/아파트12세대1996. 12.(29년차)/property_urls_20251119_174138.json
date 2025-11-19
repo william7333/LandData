@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 118,
+    "단지ID": "103455",
+    "단지명": "아파트12세대1996. 12.(29년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/103455?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:41:38.095666",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561203426",
+      "URL": "https://fin.land.naver.com/articles/2561203426",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560020495",
+      "URL": "https://fin.land.naver.com/articles/2560020495",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 8,
+    "단지ID": "114469",
+    "단지명": "아파트236세대2012. 8.(14년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/114469?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:06:42.992426",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2557591559",
+      "URL": "https://fin.land.naver.com/articles/2557591559",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557591369",
+      "URL": "https://fin.land.naver.com/articles/2557591369",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557591334",
+      "URL": "https://fin.land.naver.com/articles/2557591334",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

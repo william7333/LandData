@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 46,
+    "단지ID": "9005",
+    "단지명": "아파트54세대1990. 10.(36년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9005?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T19:57:54.215036",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562157004",
+      "URL": "https://fin.land.naver.com/articles/2562157004",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558689937",
+      "URL": "https://fin.land.naver.com/articles/2558689937",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559126368",
+      "URL": "https://fin.land.naver.com/articles/2559126368",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558349004",
+      "URL": "https://fin.land.naver.com/articles/2558349004",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

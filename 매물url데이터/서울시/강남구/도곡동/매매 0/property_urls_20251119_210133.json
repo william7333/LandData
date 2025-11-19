@@ -1,0 +1,92 @@
+{
+  "단지정보": {
+    "순번": 40,
+    "단지ID": "13059",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/13059?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:01:33.710823",
+    "매물수": 16
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561678326",
+      "URL": "https://fin.land.naver.com/articles/2561678326",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562317787",
+      "URL": "https://fin.land.naver.com/articles/2562317787",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562249440",
+      "URL": "https://fin.land.naver.com/articles/2562249440",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562013329",
+      "URL": "https://fin.land.naver.com/articles/2562013329",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559590483",
+      "URL": "https://fin.land.naver.com/articles/2559590483",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559771767",
+      "URL": "https://fin.land.naver.com/articles/2559771767",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561677761",
+      "URL": "https://fin.land.naver.com/articles/2561677761",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562244438",
+      "URL": "https://fin.land.naver.com/articles/2562244438",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562317498",
+      "URL": "https://fin.land.naver.com/articles/2562317498",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559587539",
+      "URL": "https://fin.land.naver.com/articles/2559587539",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559668450",
+      "URL": "https://fin.land.naver.com/articles/2559668450",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562290452",
+      "URL": "https://fin.land.naver.com/articles/2562290452",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562014496",
+      "URL": "https://fin.land.naver.com/articles/2562014496",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560117511",
+      "URL": "https://fin.land.naver.com/articles/2560117511",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559670664",
+      "URL": "https://fin.land.naver.com/articles/2559670664",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560117164",
+      "URL": "https://fin.land.naver.com/articles/2560117164",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 78,
+    "단지ID": "106667",
+    "단지명": "삼성빌라트",
+    "단지URL": "https://fin.land.naver.com/complexes/106667?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:31:55.121880",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558493294",
+      "URL": "https://fin.land.naver.com/articles/2558493294",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557634710",
+      "URL": "https://fin.land.naver.com/articles/2557634710",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

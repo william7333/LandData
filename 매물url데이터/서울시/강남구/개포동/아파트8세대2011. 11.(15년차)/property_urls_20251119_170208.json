@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 53,
+    "단지ID": "104598",
+    "단지명": "아파트8세대2011. 11.(15년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/104598?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:02:08.836202",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2556638971",
+      "URL": "https://fin.land.naver.com/articles/2556638971",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560020792",
+      "URL": "https://fin.land.naver.com/articles/2560020792",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558740821",
+      "URL": "https://fin.land.naver.com/articles/2558740821",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 36,
+    "단지ID": "271",
+    "단지명": "아파트128세대1986. 10.(40년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/271?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:00:11.186069",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560298986",
+      "URL": "https://fin.land.naver.com/articles/2560298986",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559054502",
+      "URL": "https://fin.land.naver.com/articles/2559054502",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

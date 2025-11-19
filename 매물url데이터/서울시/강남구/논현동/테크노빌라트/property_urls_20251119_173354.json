@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 87,
+    "단지ID": "10831",
+    "단지명": "테크노빌라트",
+    "단지URL": "https://fin.land.naver.com/complexes/10831?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:33:54.748195",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562331472",
+      "URL": "https://fin.land.naver.com/articles/2562331472",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561443513",
+      "URL": "https://fin.land.naver.com/articles/2561443513",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557684862",
+      "URL": "https://fin.land.naver.com/articles/2557684862",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557034395",
+      "URL": "https://fin.land.naver.com/articles/2557034395",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

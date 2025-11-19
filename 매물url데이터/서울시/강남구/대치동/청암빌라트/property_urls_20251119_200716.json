@@ -1,0 +1,77 @@
+{
+  "단지정보": {
+    "순번": 79,
+    "단지ID": "3047",
+    "단지명": "청암빌라트",
+    "단지URL": "https://fin.land.naver.com/complexes/3047?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:07:16.583501",
+    "매물수": 13
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561712397",
+      "URL": "https://fin.land.naver.com/articles/2561712397",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561230577",
+      "URL": "https://fin.land.naver.com/articles/2561230577",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562114630",
+      "URL": "https://fin.land.naver.com/articles/2562114630",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559007207",
+      "URL": "https://fin.land.naver.com/articles/2559007207",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560626950",
+      "URL": "https://fin.land.naver.com/articles/2560626950",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559969710",
+      "URL": "https://fin.land.naver.com/articles/2559969710",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560686943",
+      "URL": "https://fin.land.naver.com/articles/2560686943",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558121175",
+      "URL": "https://fin.land.naver.com/articles/2558121175",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557987571",
+      "URL": "https://fin.land.naver.com/articles/2557987571",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557366449",
+      "URL": "https://fin.land.naver.com/articles/2557366449",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559007536",
+      "URL": "https://fin.land.naver.com/articles/2559007536",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559317173",
+      "URL": "https://fin.land.naver.com/articles/2559317173",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560197689",
+      "URL": "https://fin.land.naver.com/articles/2560197689",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 49,
+    "단지ID": "116437",
+    "단지명": "아파트44세대2016. 6.(10년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/116437?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T19:59:19.143179",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560120733",
+      "URL": "https://fin.land.naver.com/articles/2560120733",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560291011",
+      "URL": "https://fin.land.naver.com/articles/2560291011",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

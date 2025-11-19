@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 87,
+    "단지ID": "27002",
+    "단지명": "아파트14세대2005. 10.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/27002?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:09:38.092931",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560196776",
+      "URL": "https://fin.land.naver.com/articles/2560196776",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560196623",
+      "URL": "https://fin.land.naver.com/articles/2560196623",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

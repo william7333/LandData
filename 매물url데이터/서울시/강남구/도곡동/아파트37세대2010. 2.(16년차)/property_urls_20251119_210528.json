@@ -1,0 +1,52 @@
+{
+  "단지정보": {
+    "순번": 53,
+    "단지ID": "102163",
+    "단지명": "아파트37세대2010. 2.(16년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/102163?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:05:28.188201",
+    "매물수": 8
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561331450",
+      "URL": "https://fin.land.naver.com/articles/2561331450",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561280980",
+      "URL": "https://fin.land.naver.com/articles/2561280980",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558113559",
+      "URL": "https://fin.land.naver.com/articles/2558113559",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556316649",
+      "URL": "https://fin.land.naver.com/articles/2556316649",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561197603",
+      "URL": "https://fin.land.naver.com/articles/2561197603",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560774364",
+      "URL": "https://fin.land.naver.com/articles/2560774364",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560043833",
+      "URL": "https://fin.land.naver.com/articles/2560043833",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557605270",
+      "URL": "https://fin.land.naver.com/articles/2557605270",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

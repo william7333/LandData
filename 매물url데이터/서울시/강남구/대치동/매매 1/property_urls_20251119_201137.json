@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 95,
+    "단지ID": "102169",
+    "단지명": "매매 1",
+    "단지URL": "https://fin.land.naver.com/complexes/102169?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:11:37.922939",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559666576",
+      "URL": "https://fin.land.naver.com/articles/2559666576",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559001526",
+      "URL": "https://fin.land.naver.com/articles/2559001526",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558332916",
+      "URL": "https://fin.land.naver.com/articles/2558332916",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557805914",
+      "URL": "https://fin.land.naver.com/articles/2557805914",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

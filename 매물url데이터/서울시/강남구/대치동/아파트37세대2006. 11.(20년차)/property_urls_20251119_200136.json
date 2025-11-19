@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 57,
+    "단지ID": "19488",
+    "단지명": "아파트37세대2006. 11.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/19488?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:01:36.486543",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562076725",
+      "URL": "https://fin.land.naver.com/articles/2562076725",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561449661",
+      "URL": "https://fin.land.naver.com/articles/2561449661",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559940154",
+      "URL": "https://fin.land.naver.com/articles/2559940154",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560196073",
+      "URL": "https://fin.land.naver.com/articles/2560196073",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

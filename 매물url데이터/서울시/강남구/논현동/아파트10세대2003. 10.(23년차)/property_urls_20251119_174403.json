@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 128,
+    "단지ID": "106267",
+    "단지명": "아파트10세대2003. 10.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/106267?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:44:03.914263",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561214507",
+      "URL": "https://fin.land.naver.com/articles/2561214507",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560115509",
+      "URL": "https://fin.land.naver.com/articles/2560115509",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556233160",
+      "URL": "https://fin.land.naver.com/articles/2556233160",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

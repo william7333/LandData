@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 137,
+    "단지ID": "122670",
+    "단지명": "아파트4세대2003. 8.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/122670?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:46:11.912698",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562096775",
+      "URL": "https://fin.land.naver.com/articles/2562096775",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561978040",
+      "URL": "https://fin.land.naver.com/articles/2561978040",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561798293",
+      "URL": "https://fin.land.naver.com/articles/2561798293",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561665384",
+      "URL": "https://fin.land.naver.com/articles/2561665384",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561673290",
+      "URL": "https://fin.land.naver.com/articles/2561673290",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

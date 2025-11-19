@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 119,
+    "단지ID": "16231",
+    "단지명": "아파트12세대2001. 10.(25년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/16231?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:41:50.596988",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561384297",
+      "URL": "https://fin.land.naver.com/articles/2561384297",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559730145",
+      "URL": "https://fin.land.naver.com/articles/2559730145",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

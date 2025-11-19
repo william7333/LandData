@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 69,
+    "단지ID": "21903",
+    "단지명": "매매 2",
+    "단지URL": "https://fin.land.naver.com/complexes/21903?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:04:36.621324",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560787669",
+      "URL": "https://fin.land.naver.com/articles/2560787669",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561729632",
+      "URL": "https://fin.land.naver.com/articles/2561729632",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557961939",
+      "URL": "https://fin.land.naver.com/articles/2557961939",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556377986",
+      "URL": "https://fin.land.naver.com/articles/2556377986",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

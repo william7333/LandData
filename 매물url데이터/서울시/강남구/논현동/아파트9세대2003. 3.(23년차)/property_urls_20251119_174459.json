@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 132,
+    "단지ID": "103607",
+    "단지명": "아파트9세대2003. 3.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/103607?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:44:59.123349",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562101014",
+      "URL": "https://fin.land.naver.com/articles/2562101014",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557121987",
+      "URL": "https://fin.land.naver.com/articles/2557121987",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 101,
+    "단지ID": "9360",
+    "단지명": "아파트16세대1997. 12.(28년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9360?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:37:45.185377",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560175600",
+      "URL": "https://fin.land.naver.com/articles/2560175600",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557730120",
+      "URL": "https://fin.land.naver.com/articles/2557730120",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557004824",
+      "URL": "https://fin.land.naver.com/articles/2557004824",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559654841",
+      "URL": "https://fin.land.naver.com/articles/2559654841",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

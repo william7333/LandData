@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 65,
+    "단지ID": "126762",
+    "단지명": "아파트22세대2018. 4.(8년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/126762?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:03:44.652347",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561573162",
+      "URL": "https://fin.land.naver.com/articles/2561573162",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557241230",
+      "URL": "https://fin.land.naver.com/articles/2557241230",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556344903",
+      "URL": "https://fin.land.naver.com/articles/2556344903",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

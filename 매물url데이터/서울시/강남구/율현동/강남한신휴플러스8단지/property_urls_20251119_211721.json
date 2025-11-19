@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 2,
+    "단지ID": "109555",
+    "단지명": "강남한신휴플러스8단지",
+    "단지URL": "https://fin.land.naver.com/complexes/109555?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:17:21.506222",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561486640",
+      "URL": "https://fin.land.naver.com/articles/2561486640",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556515531",
+      "URL": "https://fin.land.naver.com/articles/2556515531",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561199722",
+      "URL": "https://fin.land.naver.com/articles/2561199722",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

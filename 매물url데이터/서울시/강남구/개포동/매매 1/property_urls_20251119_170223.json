@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 54,
+    "단지ID": "146840",
+    "단지명": "매매 1",
+    "단지URL": "https://fin.land.naver.com/complexes/146840?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:02:23.380826",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558225287",
+      "URL": "https://fin.land.naver.com/articles/2558225287",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557353996",
+      "URL": "https://fin.land.naver.com/articles/2557353996",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

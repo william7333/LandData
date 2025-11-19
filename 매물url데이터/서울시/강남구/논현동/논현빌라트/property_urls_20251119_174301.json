@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 124,
+    "단지ID": "127488",
+    "단지명": "논현빌라트",
+    "단지URL": "https://fin.land.naver.com/complexes/127488?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:43:01.382042",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562018178",
+      "URL": "https://fin.land.naver.com/articles/2562018178",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561833314",
+      "URL": "https://fin.land.naver.com/articles/2561833314",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

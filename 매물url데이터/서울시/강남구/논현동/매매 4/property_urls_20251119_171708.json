@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 33,
+    "단지ID": "178198",
+    "단지명": "매매 4",
+    "단지URL": "https://fin.land.naver.com/complexes/178198?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:17:08.440682",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559023569",
+      "URL": "https://fin.land.naver.com/articles/2559023569",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559014282",
+      "URL": "https://fin.land.naver.com/articles/2559014282",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559011948",
+      "URL": "https://fin.land.naver.com/articles/2559011948",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558984528",
+      "URL": "https://fin.land.naver.com/articles/2558984528",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

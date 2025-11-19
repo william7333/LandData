@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 61,
+    "단지ID": "121423",
+    "단지명": "아파트29세대2018. 6.(8년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/121423?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:26:43.195054",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561803486",
+      "URL": "https://fin.land.naver.com/articles/2561803486",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556882356",
+      "URL": "https://fin.land.naver.com/articles/2556882356",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556882156",
+      "URL": "https://fin.land.naver.com/articles/2556882156",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

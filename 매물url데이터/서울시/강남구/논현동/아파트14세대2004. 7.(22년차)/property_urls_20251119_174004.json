@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 111,
+    "단지ID": "25173",
+    "단지명": "아파트14세대2004. 7.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/25173?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:40:04.394984",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559151136",
+      "URL": "https://fin.land.naver.com/articles/2559151136",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558055850",
+      "URL": "https://fin.land.naver.com/articles/2558055850",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

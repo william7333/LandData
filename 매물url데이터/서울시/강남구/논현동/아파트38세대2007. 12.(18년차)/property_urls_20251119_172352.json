@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 53,
+    "단지ID": "26416",
+    "단지명": "아파트38세대2007. 12.(18년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/26416?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:23:52.517934",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559083717",
+      "URL": "https://fin.land.naver.com/articles/2559083717",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558946233",
+      "URL": "https://fin.land.naver.com/articles/2558946233",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558946999",
+      "URL": "https://fin.land.naver.com/articles/2558946999",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558946602",
+      "URL": "https://fin.land.naver.com/articles/2558946602",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556828570",
+      "URL": "https://fin.land.naver.com/articles/2556828570",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559677214",
+      "URL": "https://fin.land.naver.com/articles/2559677214",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

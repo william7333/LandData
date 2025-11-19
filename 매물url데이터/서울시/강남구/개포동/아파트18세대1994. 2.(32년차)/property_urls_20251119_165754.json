@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 34,
+    "단지ID": "8967",
+    "단지명": "아파트18세대1994. 2.(32년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/8967?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T16:57:54.512637",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561262639",
+      "URL": "https://fin.land.naver.com/articles/2561262639",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558869765",
+      "URL": "https://fin.land.naver.com/articles/2558869765",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558812042",
+      "URL": "https://fin.land.naver.com/articles/2558812042",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

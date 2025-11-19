@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 59,
+    "단지ID": "13826",
+    "단지명": "아파트33세대2003. 10.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/13826?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:02:17.057561",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560843527",
+      "URL": "https://fin.land.naver.com/articles/2560843527",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560442923",
+      "URL": "https://fin.land.naver.com/articles/2560442923",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559570435",
+      "URL": "https://fin.land.naver.com/articles/2559570435",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559535017",
+      "URL": "https://fin.land.naver.com/articles/2559535017",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559097240",
+      "URL": "https://fin.land.naver.com/articles/2559097240",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 77,
+    "단지ID": "101378",
+    "단지명": "아파트18세대2004. 12.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/101378?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:06:44.418502",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559157123",
+      "URL": "https://fin.land.naver.com/articles/2559157123",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560797094",
+      "URL": "https://fin.land.naver.com/articles/2560797094",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556308958",
+      "URL": "https://fin.land.naver.com/articles/2556308958",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

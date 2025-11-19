@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 61,
+    "단지ID": "22149",
+    "단지명": "아파트30세대2004. 12.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/22149?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T20:02:44.135789",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561876688",
+      "URL": "https://fin.land.naver.com/articles/2561876688",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557641912",
+      "URL": "https://fin.land.naver.com/articles/2557641912",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560196986",
+      "URL": "https://fin.land.naver.com/articles/2560196986",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 61,
+    "단지ID": "104408",
+    "단지명": "아파트19세대1995. 12.(30년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/104408?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:07:33.533768",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562286811",
+      "URL": "https://fin.land.naver.com/articles/2562286811",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562193381",
+      "URL": "https://fin.land.naver.com/articles/2562193381",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561439924",
+      "URL": "https://fin.land.naver.com/articles/2561439924",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561155722",
+      "URL": "https://fin.land.naver.com/articles/2561155722",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "단지정보": {
+    "순번": 35,
+    "단지ID": "115911",
+    "단지명": "매매 1",
+    "단지URL": "https://fin.land.naver.com/complexes/115911?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T16:58:07.309609",
+    "매물수": 1
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2557167598",
+      "URL": "https://fin.land.naver.com/articles/2557167598",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 50,
+    "단지ID": "15236",
+    "단지명": "아파트44세대2006. 6.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/15236?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T19:59:33.333656",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562060418",
+      "URL": "https://fin.land.naver.com/articles/2562060418",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561874096",
+      "URL": "https://fin.land.naver.com/articles/2561874096",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560476750",
+      "URL": "https://fin.land.naver.com/articles/2560476750",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559641856",
+      "URL": "https://fin.land.naver.com/articles/2559641856",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559144455",
+      "URL": "https://fin.land.naver.com/articles/2559144455",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557585917",
+      "URL": "https://fin.land.naver.com/articles/2557585917",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556854327",
+      "URL": "https://fin.land.naver.com/articles/2556854327",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

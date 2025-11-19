@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 96,
+    "단지ID": "138264",
+    "단지명": "아파트16세대2019. 3.(7년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/138264?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:36:22.615862",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562244297",
+      "URL": "https://fin.land.naver.com/articles/2562244297",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560216961",
+      "URL": "https://fin.land.naver.com/articles/2560216961",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

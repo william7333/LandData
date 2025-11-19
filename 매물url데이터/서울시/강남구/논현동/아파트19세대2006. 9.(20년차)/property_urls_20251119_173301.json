@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 83,
+    "단지ID": "25838",
+    "단지명": "아파트19세대2006. 9.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/25838?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:33:01.710624",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561092083",
+      "URL": "https://fin.land.naver.com/articles/2561092083",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557635913",
+      "URL": "https://fin.land.naver.com/articles/2557635913",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557635660",
+      "URL": "https://fin.land.naver.com/articles/2557635660",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

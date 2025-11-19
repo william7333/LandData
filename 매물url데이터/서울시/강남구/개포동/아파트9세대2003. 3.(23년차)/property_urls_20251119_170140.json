@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 51,
+    "단지ID": "124917",
+    "단지명": "아파트9세대2003. 3.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/124917?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T17:01:40.978333",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561696396",
+      "URL": "https://fin.land.naver.com/articles/2561696396",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559923339",
+      "URL": "https://fin.land.naver.com/articles/2559923339",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 66,
+    "단지ID": "16247",
+    "단지명": "아파트19세대1998. 4.(28년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/16247?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-19T21:08:40.874823",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2557605636",
+      "URL": "https://fin.land.naver.com/articles/2557605636",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559845780",
+      "URL": "https://fin.land.naver.com/articles/2559845780",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557361333",
+      "URL": "https://fin.land.naver.com/articles/2557361333",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557250129",
+      "URL": "https://fin.land.naver.com/articles/2557250129",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 88,
+    "단지ID": "113690",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/113690?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:54:14.162489",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560778634",
+      "URL": "https://fin.land.naver.com/articles/2560778634",
+      "매물정보": "네이버페이 부동산에서 보기"
+    },
+    {
+      "매물ID": "2558630027",
+      "URL": "https://fin.land.naver.com/articles/2558630027",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

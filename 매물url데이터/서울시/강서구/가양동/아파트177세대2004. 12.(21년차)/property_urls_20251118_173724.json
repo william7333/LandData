@@ -1,0 +1,72 @@
+{
+  "단지정보": {
+    "순번": 18,
+    "단지ID": "9788",
+    "단지명": "아파트177세대2004. 12.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9788?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:37:24.820648",
+    "매물수": 12
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562029413",
+      "URL": "https://fin.land.naver.com/articles/2562029413",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561149683",
+      "URL": "https://fin.land.naver.com/articles/2561149683",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560747672",
+      "URL": "https://fin.land.naver.com/articles/2560747672",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560696555",
+      "URL": "https://fin.land.naver.com/articles/2560696555",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559708355",
+      "URL": "https://fin.land.naver.com/articles/2559708355",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560009335",
+      "URL": "https://fin.land.naver.com/articles/2560009335",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559902854",
+      "URL": "https://fin.land.naver.com/articles/2559902854",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558438452",
+      "URL": "https://fin.land.naver.com/articles/2558438452",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561779901",
+      "URL": "https://fin.land.naver.com/articles/2561779901",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557765138",
+      "URL": "https://fin.land.naver.com/articles/2557765138",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556310782",
+      "URL": "https://fin.land.naver.com/articles/2556310782",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561188571",
+      "URL": "https://fin.land.naver.com/articles/2561188571",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

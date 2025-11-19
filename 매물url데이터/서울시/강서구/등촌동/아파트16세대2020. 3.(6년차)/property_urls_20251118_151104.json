@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 161,
+    "단지ID": "128127",
+    "단지명": "아파트16세대2020. 3.(6년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/128127?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:11:04.701330",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560982786",
+      "URL": "https://fin.land.naver.com/articles/2560982786",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559822891",
+      "URL": "https://fin.land.naver.com/articles/2559822891",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558058316",
+      "URL": "https://fin.land.naver.com/articles/2558058316",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

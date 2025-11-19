@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 31,
+    "단지ID": "134590",
+    "단지명": "매매 3",
+    "단지URL": "https://fin.land.naver.com/complexes/134590?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:40:50.929057",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559931513",
+      "URL": "https://fin.land.naver.com/articles/2559931513",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557804538",
+      "URL": "https://fin.land.naver.com/articles/2557804538",
+      "매물정보": "네이버페이 부동산에서 보기"
+    },
+    {
+      "매물ID": "2557082724",
+      "URL": "https://fin.land.naver.com/articles/2557082724",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 56,
+    "단지ID": "18526",
+    "단지명": "아파트24세대2004. 4.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/18526?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:44:38.357616",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561895679",
+      "URL": "https://fin.land.naver.com/articles/2561895679",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558055867",
+      "URL": "https://fin.land.naver.com/articles/2558055867",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556725054",
+      "URL": "https://fin.land.naver.com/articles/2556725054",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

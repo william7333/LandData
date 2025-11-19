@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 21,
+    "단지ID": "1013",
+    "단지명": "아파트137세대1999. 3.(27년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/1013?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:38:26.568947",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561832358",
+      "URL": "https://fin.land.naver.com/articles/2561832358",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561640480",
+      "URL": "https://fin.land.naver.com/articles/2561640480",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561641040",
+      "URL": "https://fin.land.naver.com/articles/2561641040",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560866660",
+      "URL": "https://fin.land.naver.com/articles/2560866660",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560704439",
+      "URL": "https://fin.land.naver.com/articles/2560704439",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

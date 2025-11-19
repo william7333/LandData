@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 44,
+    "단지ID": "162460",
+    "단지명": "아파트35세대2023. 8.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/162460?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:41:40.092045",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2556579817",
+      "URL": "https://fin.land.naver.com/articles/2556579817",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556457191",
+      "URL": "https://fin.land.naver.com/articles/2556457191",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

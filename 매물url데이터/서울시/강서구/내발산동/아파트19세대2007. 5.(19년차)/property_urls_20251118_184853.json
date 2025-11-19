@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 74,
+    "단지ID": "104103",
+    "단지명": "아파트19세대2007. 5.(19년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/104103?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:48:53.652524",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561700917",
+      "URL": "https://fin.land.naver.com/articles/2561700917",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560489755",
+      "URL": "https://fin.land.naver.com/articles/2560489755",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561165672",
+      "URL": "https://fin.land.naver.com/articles/2561165672",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559011143",
+      "URL": "https://fin.land.naver.com/articles/2559011143",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556424564",
+      "URL": "https://fin.land.naver.com/articles/2556424564",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559526739",
+      "URL": "https://fin.land.naver.com/articles/2559526739",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

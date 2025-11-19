@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 6,
+    "단지ID": "26128",
+    "단지명": "마곡수명산파크7단지",
+    "단지URL": "https://fin.land.naver.com/complexes/26128?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:30:28.164183",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560167013",
+      "URL": "https://fin.land.naver.com/articles/2560167013",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560134551",
+      "URL": "https://fin.land.naver.com/articles/2560134551",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561409417",
+      "URL": "https://fin.land.naver.com/articles/2561409417",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560462574",
+      "URL": "https://fin.land.naver.com/articles/2560462574",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

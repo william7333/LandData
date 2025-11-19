@@ -1,0 +1,57 @@
+{
+  "단지정보": {
+    "순번": 5,
+    "단지ID": "182637",
+    "단지명": "아파트716세대2025. 3.(1년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/182637?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:30:14.978291",
+    "매물수": 9
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562036015",
+      "URL": "https://fin.land.naver.com/articles/2562036015",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562030260",
+      "URL": "https://fin.land.naver.com/articles/2562030260",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561864899",
+      "URL": "https://fin.land.naver.com/articles/2561864899",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561182975",
+      "URL": "https://fin.land.naver.com/articles/2561182975",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560954489",
+      "URL": "https://fin.land.naver.com/articles/2560954489",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560717857",
+      "URL": "https://fin.land.naver.com/articles/2560717857",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560717607",
+      "URL": "https://fin.land.naver.com/articles/2560717607",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560153849",
+      "URL": "https://fin.land.naver.com/articles/2560153849",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560152335",
+      "URL": "https://fin.land.naver.com/articles/2560152335",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 18,
+    "단지ID": "160157",
+    "단지명": "아파트87세대2023. 9.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/160157?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:34:33.369750",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561957493",
+      "URL": "https://fin.land.naver.com/articles/2561957493",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561035430",
+      "URL": "https://fin.land.naver.com/articles/2561035430",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560659007",
+      "URL": "https://fin.land.naver.com/articles/2560659007",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556646795",
+      "URL": "https://fin.land.naver.com/articles/2556646795",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560523323",
+      "URL": "https://fin.land.naver.com/articles/2560523323",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

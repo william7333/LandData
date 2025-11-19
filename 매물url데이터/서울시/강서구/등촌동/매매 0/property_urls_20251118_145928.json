@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 110,
+    "단지ID": "148608",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/148608?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:59:28.088280",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561931271",
+      "URL": "https://fin.land.naver.com/articles/2561931271",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561890868",
+      "URL": "https://fin.land.naver.com/articles/2561890868",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561691034",
+      "URL": "https://fin.land.naver.com/articles/2561691034",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

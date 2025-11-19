@@ -1,0 +1,57 @@
+{
+  "단지정보": {
+    "순번": 48,
+    "단지ID": "101011",
+    "단지명": "아파트30세대2005. 2.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/101011?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:42:45.166161",
+    "매물수": 9
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561924110",
+      "URL": "https://fin.land.naver.com/articles/2561924110",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561701784",
+      "URL": "https://fin.land.naver.com/articles/2561701784",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561704172",
+      "URL": "https://fin.land.naver.com/articles/2561704172",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560555886",
+      "URL": "https://fin.land.naver.com/articles/2560555886",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559921001",
+      "URL": "https://fin.land.naver.com/articles/2559921001",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560803277",
+      "URL": "https://fin.land.naver.com/articles/2560803277",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556379232",
+      "URL": "https://fin.land.naver.com/articles/2556379232",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561428719",
+      "URL": "https://fin.land.naver.com/articles/2561428719",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560549887",
+      "URL": "https://fin.land.naver.com/articles/2560549887",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

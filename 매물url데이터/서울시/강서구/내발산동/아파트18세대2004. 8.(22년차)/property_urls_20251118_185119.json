@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 84,
+    "단지ID": "117681",
+    "단지명": "아파트18세대2004. 8.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/117681?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:51:19.144855",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561951463",
+      "URL": "https://fin.land.naver.com/articles/2561951463",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561848635",
+      "URL": "https://fin.land.naver.com/articles/2561848635",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560271550",
+      "URL": "https://fin.land.naver.com/articles/2560271550",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

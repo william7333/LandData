@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 76,
+    "단지ID": "138954",
+    "단지명": "아파트78세대2019. 4.(7년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/138954?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:51:09.955785",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561445694",
+      "URL": "https://fin.land.naver.com/articles/2561445694",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558314199",
+      "URL": "https://fin.land.naver.com/articles/2558314199",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558314168",
+      "URL": "https://fin.land.naver.com/articles/2558314168",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556930143",
+      "URL": "https://fin.land.naver.com/articles/2556930143",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558314130",
+      "URL": "https://fin.land.naver.com/articles/2558314130",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557902925",
+      "URL": "https://fin.land.naver.com/articles/2557902925",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

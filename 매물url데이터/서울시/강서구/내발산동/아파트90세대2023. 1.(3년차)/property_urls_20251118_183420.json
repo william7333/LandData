@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 17,
+    "단지ID": "156520",
+    "단지명": "아파트90세대2023. 1.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/156520?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:34:20.118968",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561704891",
+      "URL": "https://fin.land.naver.com/articles/2561704891",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562036408",
+      "URL": "https://fin.land.naver.com/articles/2562036408",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560004631",
+      "URL": "https://fin.land.naver.com/articles/2560004631",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

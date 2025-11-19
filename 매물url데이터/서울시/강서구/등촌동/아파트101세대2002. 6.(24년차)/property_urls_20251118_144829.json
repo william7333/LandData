@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 67,
+    "단지ID": "8628",
+    "단지명": "아파트101세대2002. 6.(24년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/8628?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:48:29.412760",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560979739",
+      "URL": "https://fin.land.naver.com/articles/2560979739",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561067797",
+      "URL": "https://fin.land.naver.com/articles/2561067797",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559794971",
+      "URL": "https://fin.land.naver.com/articles/2559794971",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557068729",
+      "URL": "https://fin.land.naver.com/articles/2557068729",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557682886",
+      "URL": "https://fin.land.naver.com/articles/2557682886",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557066856",
+      "URL": "https://fin.land.naver.com/articles/2557066856",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556417196",
+      "URL": "https://fin.land.naver.com/articles/2556417196",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

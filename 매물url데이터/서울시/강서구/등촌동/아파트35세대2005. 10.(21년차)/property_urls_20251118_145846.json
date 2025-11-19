@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 107,
+    "단지ID": "104562",
+    "단지명": "아파트35세대2005. 10.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/104562?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:58:46.022663",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561236394",
+      "URL": "https://fin.land.naver.com/articles/2561236394",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559648809",
+      "URL": "https://fin.land.naver.com/articles/2559648809",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559368134",
+      "URL": "https://fin.land.naver.com/articles/2559368134",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559353920",
+      "URL": "https://fin.land.naver.com/articles/2559353920",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559229133",
+      "URL": "https://fin.land.naver.com/articles/2559229133",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561273904",
+      "URL": "https://fin.land.naver.com/articles/2561273904",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

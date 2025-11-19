@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 55,
+    "단지ID": "23694",
+    "단지명": "아파트25세대2005. 7.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/23694?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:44:24.249603",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558708369",
+      "URL": "https://fin.land.naver.com/articles/2558708369",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558264505",
+      "URL": "https://fin.land.naver.com/articles/2558264505",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558189257",
+      "URL": "https://fin.land.naver.com/articles/2558189257",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

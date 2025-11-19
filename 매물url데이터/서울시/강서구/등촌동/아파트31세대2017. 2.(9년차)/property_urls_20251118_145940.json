@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 111,
+    "단지ID": "153961",
+    "단지명": "아파트31세대2017. 2.(9년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/153961?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:59:40.524460",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561081183",
+      "URL": "https://fin.land.naver.com/articles/2561081183",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556330226",
+      "URL": "https://fin.land.naver.com/articles/2556330226",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

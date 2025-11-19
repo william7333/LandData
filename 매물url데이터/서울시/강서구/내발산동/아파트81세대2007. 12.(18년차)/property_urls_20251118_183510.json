@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 20,
+    "단지ID": "102778",
+    "단지명": "아파트81세대2007. 12.(18년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/102778?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:35:10.176840",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561913132",
+      "URL": "https://fin.land.naver.com/articles/2561913132",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559930270",
+      "URL": "https://fin.land.naver.com/articles/2559930270",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559798210",
+      "URL": "https://fin.land.naver.com/articles/2559798210",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559313589",
+      "URL": "https://fin.land.naver.com/articles/2559313589",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559395790",
+      "URL": "https://fin.land.naver.com/articles/2559395790",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

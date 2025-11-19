@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 69,
+    "단지ID": "18523",
+    "단지명": "아파트19세대2003. 5.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/18523?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:47:43.972991",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561354910",
+      "URL": "https://fin.land.naver.com/articles/2561354910",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559579723",
+      "URL": "https://fin.land.naver.com/articles/2559579723",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557988998",
+      "URL": "https://fin.land.naver.com/articles/2557988998",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556955644",
+      "URL": "https://fin.land.naver.com/articles/2556955644",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556596899",
+      "URL": "https://fin.land.naver.com/articles/2556596899",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

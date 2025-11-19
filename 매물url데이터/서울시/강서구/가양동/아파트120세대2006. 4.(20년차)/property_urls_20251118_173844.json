@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 22,
+    "단지ID": "22405",
+    "단지명": "아파트120세대2006. 4.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/22405?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:38:44.164044",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561028819",
+      "URL": "https://fin.land.naver.com/articles/2561028819",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558767893",
+      "URL": "https://fin.land.naver.com/articles/2558767893",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561065911",
+      "URL": "https://fin.land.naver.com/articles/2561065911",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556814832",
+      "URL": "https://fin.land.naver.com/articles/2556814832",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561840255",
+      "URL": "https://fin.land.naver.com/articles/2561840255",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559942541",
+      "URL": "https://fin.land.naver.com/articles/2559942541",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

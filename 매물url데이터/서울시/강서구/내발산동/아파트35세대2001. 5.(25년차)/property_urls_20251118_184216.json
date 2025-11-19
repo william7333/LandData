@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 46,
+    "단지ID": "16749",
+    "단지명": "아파트35세대2001. 5.(25년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/16749?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:42:16.853621",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561662713",
+      "URL": "https://fin.land.naver.com/articles/2561662713",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560292694",
+      "URL": "https://fin.land.naver.com/articles/2560292694",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559155325",
+      "URL": "https://fin.land.naver.com/articles/2559155325",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557747144",
+      "URL": "https://fin.land.naver.com/articles/2557747144",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561046326",
+      "URL": "https://fin.land.naver.com/articles/2561046326",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559186303",
+      "URL": "https://fin.land.naver.com/articles/2559186303",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561701910",
+      "URL": "https://fin.land.naver.com/articles/2561701910",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

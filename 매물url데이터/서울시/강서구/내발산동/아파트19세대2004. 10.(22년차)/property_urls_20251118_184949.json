@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 78,
+    "단지ID": "104074",
+    "단지명": "아파트19세대2004. 10.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/104074?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:49:49.539611",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559238645",
+      "URL": "https://fin.land.naver.com/articles/2559238645",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559244383",
+      "URL": "https://fin.land.naver.com/articles/2559244383",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557822542",
+      "URL": "https://fin.land.naver.com/articles/2557822542",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

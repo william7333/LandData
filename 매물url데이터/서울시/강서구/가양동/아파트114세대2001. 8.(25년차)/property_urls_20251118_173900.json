@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 23,
+    "단지ID": "3325",
+    "단지명": "아파트114세대2001. 8.(25년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/3325?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:39:00.616952",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561872163",
+      "URL": "https://fin.land.naver.com/articles/2561872163",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561116535",
+      "URL": "https://fin.land.naver.com/articles/2561116535",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560858929",
+      "URL": "https://fin.land.naver.com/articles/2560858929",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561841909",
+      "URL": "https://fin.land.naver.com/articles/2561841909",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560869714",
+      "URL": "https://fin.land.naver.com/articles/2560869714",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559209537",
+      "URL": "https://fin.land.naver.com/articles/2559209537",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

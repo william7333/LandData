@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 155,
+    "단지ID": "162278",
+    "단지명": "아파트16세대2023. 11.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/162278?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:09:43.384254",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561010333",
+      "URL": "https://fin.land.naver.com/articles/2561010333",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560852632",
+      "URL": "https://fin.land.naver.com/articles/2560852632",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

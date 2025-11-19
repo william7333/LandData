@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 26,
+    "단지ID": "101232",
+    "단지명": "아파트64세대2004. 6.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/101232?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:37:05.414329",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561893042",
+      "URL": "https://fin.land.naver.com/articles/2561893042",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560027707",
+      "URL": "https://fin.land.naver.com/articles/2560027707",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558499426",
+      "URL": "https://fin.land.naver.com/articles/2558499426",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561172193",
+      "URL": "https://fin.land.naver.com/articles/2561172193",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560716085",
+      "URL": "https://fin.land.naver.com/articles/2560716085",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559161738",
+      "URL": "https://fin.land.naver.com/articles/2559161738",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

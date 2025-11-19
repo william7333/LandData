@@ -1,0 +1,52 @@
+{
+  "단지정보": {
+    "순번": 66,
+    "단지ID": "13044",
+    "단지명": "아파트19세대2003. 6.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/13044?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:47:02.559012",
+    "매물수": 8
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562005576",
+      "URL": "https://fin.land.naver.com/articles/2562005576",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561668951",
+      "URL": "https://fin.land.naver.com/articles/2561668951",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560916597",
+      "URL": "https://fin.land.naver.com/articles/2560916597",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561020774",
+      "URL": "https://fin.land.naver.com/articles/2561020774",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560795813",
+      "URL": "https://fin.land.naver.com/articles/2560795813",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556853276",
+      "URL": "https://fin.land.naver.com/articles/2556853276",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556853708",
+      "URL": "https://fin.land.naver.com/articles/2556853708",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556379929",
+      "URL": "https://fin.land.naver.com/articles/2556379929",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

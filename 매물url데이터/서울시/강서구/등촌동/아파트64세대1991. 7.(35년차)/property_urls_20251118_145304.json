@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 83,
+    "단지ID": "9694",
+    "단지명": "아파트64세대1991. 7.(35년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9694?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:53:04.258308",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561670765",
+      "URL": "https://fin.land.naver.com/articles/2561670765",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556317519",
+      "URL": "https://fin.land.naver.com/articles/2556317519",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560747432",
+      "URL": "https://fin.land.naver.com/articles/2560747432",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560417989",
+      "URL": "https://fin.land.naver.com/articles/2560417989",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557312117",
+      "URL": "https://fin.land.naver.com/articles/2557312117",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557607828",
+      "URL": "https://fin.land.naver.com/articles/2557607828",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556379791",
+      "URL": "https://fin.land.naver.com/articles/2556379791",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

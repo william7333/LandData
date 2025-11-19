@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 59,
+    "단지ID": "9525",
+    "단지명": "아파트65세대1999. 11.(27년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9525?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:46:25.372326",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560768382",
+      "URL": "https://fin.land.naver.com/articles/2560768382",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560882752",
+      "URL": "https://fin.land.naver.com/articles/2560882752",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559955440",
+      "URL": "https://fin.land.naver.com/articles/2559955440",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557148936",
+      "URL": "https://fin.land.naver.com/articles/2557148936",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556610567",
+      "URL": "https://fin.land.naver.com/articles/2556610567",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

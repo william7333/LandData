@@ -1,0 +1,17 @@
+{
+  "단지정보": {
+    "순번": 83,
+    "단지ID": "147366",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/147366?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:52:01.018751",
+    "매물수": 1
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559955192",
+      "URL": "https://fin.land.naver.com/articles/2559955192",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

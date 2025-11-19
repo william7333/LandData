@@ -1,0 +1,62 @@
+{
+  "단지정보": {
+    "순번": 41,
+    "단지ID": "9406",
+    "단지명": "아파트98세대2002. 9.(24년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9406?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:41:43.904476",
+    "매물수": 10
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561887592",
+      "URL": "https://fin.land.naver.com/articles/2561887592",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559898165",
+      "URL": "https://fin.land.naver.com/articles/2559898165",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557940863",
+      "URL": "https://fin.land.naver.com/articles/2557940863",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561760432",
+      "URL": "https://fin.land.naver.com/articles/2561760432",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561760249",
+      "URL": "https://fin.land.naver.com/articles/2561760249",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559077590",
+      "URL": "https://fin.land.naver.com/articles/2559077590",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559673442",
+      "URL": "https://fin.land.naver.com/articles/2559673442",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560377431",
+      "URL": "https://fin.land.naver.com/articles/2560377431",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559972730",
+      "URL": "https://fin.land.naver.com/articles/2559972730",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559087701",
+      "URL": "https://fin.land.naver.com/articles/2559087701",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

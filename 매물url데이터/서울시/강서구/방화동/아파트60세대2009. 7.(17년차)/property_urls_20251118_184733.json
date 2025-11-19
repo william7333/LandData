@@ -1,0 +1,82 @@
+{
+  "단지정보": {
+    "순번": 64,
+    "단지ID": "100090",
+    "단지명": "아파트60세대2009. 7.(17년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/100090?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:47:33.858775",
+    "매물수": 14
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562052481",
+      "URL": "https://fin.land.naver.com/articles/2562052481",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562010520",
+      "URL": "https://fin.land.naver.com/articles/2562010520",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562069905",
+      "URL": "https://fin.land.naver.com/articles/2562069905",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561903490",
+      "URL": "https://fin.land.naver.com/articles/2561903490",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561902720",
+      "URL": "https://fin.land.naver.com/articles/2561902720",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561223067",
+      "URL": "https://fin.land.naver.com/articles/2561223067",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560281986",
+      "URL": "https://fin.land.naver.com/articles/2560281986",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561651153",
+      "URL": "https://fin.land.naver.com/articles/2561651153",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561877477",
+      "URL": "https://fin.land.naver.com/articles/2561877477",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561731856",
+      "URL": "https://fin.land.naver.com/articles/2561731856",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558582973",
+      "URL": "https://fin.land.naver.com/articles/2558582973",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557530832",
+      "URL": "https://fin.land.naver.com/articles/2557530832",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556998477",
+      "URL": "https://fin.land.naver.com/articles/2556998477",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562137936",
+      "URL": "https://fin.land.naver.com/articles/2562137936",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

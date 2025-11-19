@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 45,
+    "단지ID": "3151",
+    "단지명": "아파트96세대1982. 11.(44년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/3151?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:42:44.272549",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561357700",
+      "URL": "https://fin.land.naver.com/articles/2561357700",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560819610",
+      "URL": "https://fin.land.naver.com/articles/2560819610",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 56,
+    "단지ID": "10217",
+    "단지명": "아파트69세대2003. 6.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/10217?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:45:39.383658",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559921971",
+      "URL": "https://fin.land.naver.com/articles/2559921971",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558676229",
+      "URL": "https://fin.land.naver.com/articles/2558676229",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558273267",
+      "URL": "https://fin.land.naver.com/articles/2558273267",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

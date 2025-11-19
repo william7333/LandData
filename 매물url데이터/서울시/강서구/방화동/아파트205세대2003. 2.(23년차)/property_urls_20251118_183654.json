@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 25,
+    "단지ID": "9315",
+    "단지명": "아파트205세대2003. 2.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9315?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:36:54.512317",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558482745",
+      "URL": "https://fin.land.naver.com/articles/2558482745",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558314436",
+      "URL": "https://fin.land.naver.com/articles/2558314436",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

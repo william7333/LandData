@@ -1,0 +1,17 @@
+{
+  "단지정보": {
+    "순번": 130,
+    "단지ID": "143673",
+    "단지명": "매매 1",
+    "단지URL": "https://fin.land.naver.com/complexes/143673?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T19:02:39.582569",
+    "매물수": 1
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562058672",
+      "URL": "https://fin.land.naver.com/articles/2562058672",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

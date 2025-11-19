@@ -1,0 +1,17 @@
+{
+  "단지정보": {
+    "순번": 117,
+    "단지ID": "143037",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/143037?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:59:45.818001",
+    "매물수": 1
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560420625",
+      "URL": "https://fin.land.naver.com/articles/2560420625",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

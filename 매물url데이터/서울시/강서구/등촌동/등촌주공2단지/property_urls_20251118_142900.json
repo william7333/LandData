@@ -1,0 +1,72 @@
+{
+  "단지정보": {
+    "순번": 8,
+    "단지ID": "11",
+    "단지명": "등촌주공2단지",
+    "단지URL": "https://fin.land.naver.com/complexes/11?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:29:00.592426",
+    "매물수": 12
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562037889",
+      "URL": "https://fin.land.naver.com/articles/2562037889",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561993294",
+      "URL": "https://fin.land.naver.com/articles/2561993294",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561853291",
+      "URL": "https://fin.land.naver.com/articles/2561853291",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560957560",
+      "URL": "https://fin.land.naver.com/articles/2560957560",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559159667",
+      "URL": "https://fin.land.naver.com/articles/2559159667",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559628520",
+      "URL": "https://fin.land.naver.com/articles/2559628520",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559726644",
+      "URL": "https://fin.land.naver.com/articles/2559726644",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558439906",
+      "URL": "https://fin.land.naver.com/articles/2558439906",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559224313",
+      "URL": "https://fin.land.naver.com/articles/2559224313",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558764724",
+      "URL": "https://fin.land.naver.com/articles/2558764724",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558734707",
+      "URL": "https://fin.land.naver.com/articles/2558734707",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557432182",
+      "URL": "https://fin.land.naver.com/articles/2557432182",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

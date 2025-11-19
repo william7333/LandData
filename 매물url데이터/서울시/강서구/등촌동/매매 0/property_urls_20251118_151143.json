@@ -1,0 +1,17 @@
+{
+  "단지정보": {
+    "순번": 164,
+    "단지ID": "164100",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/164100?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:11:43.055108",
+    "매물수": 1
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2557505371",
+      "URL": "https://fin.land.naver.com/articles/2557505371",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

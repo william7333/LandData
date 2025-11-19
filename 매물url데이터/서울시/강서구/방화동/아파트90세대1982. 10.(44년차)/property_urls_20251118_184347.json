@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 49,
+    "단지ID": "3152",
+    "단지명": "아파트90세대1982. 10.(44년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/3152?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:43:47.985514",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560097219",
+      "URL": "https://fin.land.naver.com/articles/2560097219",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561249974",
+      "URL": "https://fin.land.naver.com/articles/2561249974",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561248103",
+      "URL": "https://fin.land.naver.com/articles/2561248103",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558498542",
+      "URL": "https://fin.land.naver.com/articles/2558498542",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558497943",
+      "URL": "https://fin.land.naver.com/articles/2558497943",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

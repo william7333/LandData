@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 106,
+    "단지ID": "144582",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/144582?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:58:29.890559",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560705129",
+      "URL": "https://fin.land.naver.com/articles/2560705129",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556883923",
+      "URL": "https://fin.land.naver.com/articles/2556883923",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556807329",
+      "URL": "https://fin.land.naver.com/articles/2556807329",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 153,
+    "단지ID": "9698",
+    "단지명": "아파트16세대1997. 1.(29년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9698?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:09:18.375293",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560604139",
+      "URL": "https://fin.land.naver.com/articles/2560604139",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560102926",
+      "URL": "https://fin.land.naver.com/articles/2560102926",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558698240",
+      "URL": "https://fin.land.naver.com/articles/2558698240",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557860720",
+      "URL": "https://fin.land.naver.com/articles/2557860720",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556559146",
+      "URL": "https://fin.land.naver.com/articles/2556559146",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558270362",
+      "URL": "https://fin.land.naver.com/articles/2558270362",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

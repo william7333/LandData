@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 63,
+    "단지ID": "111237",
+    "단지명": "아파트60세대2014. 3.(12년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/111237?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:47:17.038778",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561230459",
+      "URL": "https://fin.land.naver.com/articles/2561230459",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561229392",
+      "URL": "https://fin.land.naver.com/articles/2561229392",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

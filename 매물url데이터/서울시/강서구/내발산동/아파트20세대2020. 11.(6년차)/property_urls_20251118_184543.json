@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 61,
+    "단지ID": "144302",
+    "단지명": "아파트20세대2020. 11.(6년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/144302?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:45:43.951338",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2557126179",
+      "URL": "https://fin.land.naver.com/articles/2557126179",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557122137",
+      "URL": "https://fin.land.naver.com/articles/2557122137",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557079519",
+      "URL": "https://fin.land.naver.com/articles/2557079519",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

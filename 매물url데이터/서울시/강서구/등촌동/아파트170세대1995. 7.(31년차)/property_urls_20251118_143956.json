@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 40,
+    "단지ID": "16",
+    "단지명": "아파트170세대1995. 7.(31년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/16?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:39:56.606983",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561931715",
+      "URL": "https://fin.land.naver.com/articles/2561931715",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561856343",
+      "URL": "https://fin.land.naver.com/articles/2561856343",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559324315",
+      "URL": "https://fin.land.naver.com/articles/2559324315",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557347143",
+      "URL": "https://fin.land.naver.com/articles/2557347143",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

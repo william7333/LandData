@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 96,
+    "단지ID": "107425",
+    "단지명": "아파트16세대2004. 10.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/107425?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:54:06.060377",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559250581",
+      "URL": "https://fin.land.naver.com/articles/2559250581",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557682103",
+      "URL": "https://fin.land.naver.com/articles/2557682103",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556407274",
+      "URL": "https://fin.land.naver.com/articles/2556407274",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

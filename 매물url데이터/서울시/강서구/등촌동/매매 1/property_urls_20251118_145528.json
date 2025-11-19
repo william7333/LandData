@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 93,
+    "단지ID": "135944",
+    "단지명": "매매 1",
+    "단지URL": "https://fin.land.naver.com/complexes/135944?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:55:28.456739",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561149422",
+      "URL": "https://fin.land.naver.com/articles/2561149422",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559591437",
+      "URL": "https://fin.land.naver.com/articles/2559591437",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559587050",
+      "URL": "https://fin.land.naver.com/articles/2559587050",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

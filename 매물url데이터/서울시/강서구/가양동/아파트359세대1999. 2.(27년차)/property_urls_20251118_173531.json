@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 11,
+    "단지ID": "1309",
+    "단지명": "아파트359세대1999. 2.(27년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/1309?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:35:31.482935",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560517521",
+      "URL": "https://fin.land.naver.com/articles/2560517521",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560022638",
+      "URL": "https://fin.land.naver.com/articles/2560022638",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557764265",
+      "URL": "https://fin.land.naver.com/articles/2557764265",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559977365",
+      "URL": "https://fin.land.naver.com/articles/2559977365",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557768516",
+      "URL": "https://fin.land.naver.com/articles/2557768516",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557139793",
+      "URL": "https://fin.land.naver.com/articles/2557139793",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

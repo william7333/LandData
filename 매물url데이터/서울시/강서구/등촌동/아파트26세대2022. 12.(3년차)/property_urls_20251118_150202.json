@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 121,
+    "단지ID": "153618",
+    "단지명": "아파트26세대2022. 12.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/153618?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:02:02.971282",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560736248",
+      "URL": "https://fin.land.naver.com/articles/2560736248",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556436546",
+      "URL": "https://fin.land.naver.com/articles/2556436546",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559832089",
+      "URL": "https://fin.land.naver.com/articles/2559832089",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559559808",
+      "URL": "https://fin.land.naver.com/articles/2559559808",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559555576",
+      "URL": "https://fin.land.naver.com/articles/2559555576",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556944324",
+      "URL": "https://fin.land.naver.com/articles/2556944324",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557553045",
+      "URL": "https://fin.land.naver.com/articles/2557553045",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

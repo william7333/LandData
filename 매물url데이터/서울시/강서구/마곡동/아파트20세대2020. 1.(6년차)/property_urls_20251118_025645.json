@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 75,
+    "단지ID": "127861",
+    "단지명": "아파트20세대2020. 1.(6년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/127861?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T02:56:45.522831",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560651665",
+      "URL": "https://fin.land.naver.com/articles/2560651665",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558688143",
+      "URL": "https://fin.land.naver.com/articles/2558688143",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

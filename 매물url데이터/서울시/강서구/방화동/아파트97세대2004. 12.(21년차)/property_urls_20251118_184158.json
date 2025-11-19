@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 42,
+    "단지ID": "13285",
+    "단지명": "아파트97세대2004. 12.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/13285?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:41:58.241623",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560131849",
+      "URL": "https://fin.land.naver.com/articles/2560131849",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2562038563",
+      "URL": "https://fin.land.naver.com/articles/2562038563",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557548628",
+      "URL": "https://fin.land.naver.com/articles/2557548628",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556985843",
+      "URL": "https://fin.land.naver.com/articles/2556985843",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556278204",
+      "URL": "https://fin.land.naver.com/articles/2556278204",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557498896",
+      "URL": "https://fin.land.naver.com/articles/2557498896",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556851560",
+      "URL": "https://fin.land.naver.com/articles/2556851560",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

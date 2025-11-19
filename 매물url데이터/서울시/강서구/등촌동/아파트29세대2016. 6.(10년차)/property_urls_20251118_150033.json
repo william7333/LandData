@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 115,
+    "단지ID": "113528",
+    "단지명": "아파트29세대2016. 6.(10년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/113528?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:00:33.254949",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560241537",
+      "URL": "https://fin.land.naver.com/articles/2560241537",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558545509",
+      "URL": "https://fin.land.naver.com/articles/2558545509",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

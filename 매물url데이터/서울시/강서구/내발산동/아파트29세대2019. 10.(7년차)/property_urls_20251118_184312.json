@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 50,
+    "단지ID": "127304",
+    "단지명": "아파트29세대2019. 10.(7년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/127304?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:43:12.659209",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558785631",
+      "URL": "https://fin.land.naver.com/articles/2558785631",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557609456",
+      "URL": "https://fin.land.naver.com/articles/2557609456",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 48,
+    "단지ID": "3327",
+    "단지명": "아파트145세대2002. 11.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/3327?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:42:19.601364",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2562034523",
+      "URL": "https://fin.land.naver.com/articles/2562034523",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560397262",
+      "URL": "https://fin.land.naver.com/articles/2560397262",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558603256",
+      "URL": "https://fin.land.naver.com/articles/2558603256",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557165880",
+      "URL": "https://fin.land.naver.com/articles/2557165880",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556364796",
+      "URL": "https://fin.land.naver.com/articles/2556364796",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

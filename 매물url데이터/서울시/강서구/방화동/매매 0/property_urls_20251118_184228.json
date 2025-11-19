@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 44,
+    "단지ID": "150441",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/150441?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:42:28.651544",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561028311",
+      "URL": "https://fin.land.naver.com/articles/2561028311",
+      "매물정보": "네이버페이 부동산에서 보기"
+    },
+    {
+      "매물ID": "2560153576",
+      "URL": "https://fin.land.naver.com/articles/2560153576",
+      "매물정보": "네이버페이 부동산에서 보기"
+    },
+    {
+      "매물ID": "2559915793",
+      "URL": "https://fin.land.naver.com/articles/2559915793",
+      "매물정보": "네이버페이 부동산에서 보기"
+    }
+  ]
+}

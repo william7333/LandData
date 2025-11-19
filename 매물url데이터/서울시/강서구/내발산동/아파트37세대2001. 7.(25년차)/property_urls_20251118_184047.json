@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 41,
+    "단지ID": "9107",
+    "단지명": "아파트37세대2001. 7.(25년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/9107?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:40:47.482819",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561017998",
+      "URL": "https://fin.land.naver.com/articles/2561017998",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560027287",
+      "URL": "https://fin.land.naver.com/articles/2560027287",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561165881",
+      "URL": "https://fin.land.naver.com/articles/2561165881",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560288109",
+      "URL": "https://fin.land.naver.com/articles/2560288109",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556242614",
+      "URL": "https://fin.land.naver.com/articles/2556242614",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

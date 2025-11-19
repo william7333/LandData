@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 27,
+    "단지ID": "25656",
+    "단지명": "아파트62세대2006. 7.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/25656?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:37:20.230787",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560370978",
+      "URL": "https://fin.land.naver.com/articles/2560370978",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560440379",
+      "URL": "https://fin.land.naver.com/articles/2560440379",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560026654",
+      "URL": "https://fin.land.naver.com/articles/2560026654",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561289681",
+      "URL": "https://fin.land.naver.com/articles/2561289681",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

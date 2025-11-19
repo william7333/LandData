@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 57,
+    "단지ID": "157737",
+    "단지명": "아파트23세대2022. 10.(4년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/157737?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:44:49.375545",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561037390",
+      "URL": "https://fin.land.naver.com/articles/2561037390",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561035882",
+      "URL": "https://fin.land.naver.com/articles/2561035882",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561989470",
+      "URL": "https://fin.land.naver.com/articles/2561989470",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560681891",
+      "URL": "https://fin.land.naver.com/articles/2560681891",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

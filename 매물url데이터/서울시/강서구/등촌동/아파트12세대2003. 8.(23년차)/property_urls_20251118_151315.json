@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 171,
+    "단지ID": "23270",
+    "단지명": "아파트12세대2003. 8.(23년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/23270?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:13:15.182816",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560077271",
+      "URL": "https://fin.land.naver.com/articles/2560077271",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559630906",
+      "URL": "https://fin.land.naver.com/articles/2559630906",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

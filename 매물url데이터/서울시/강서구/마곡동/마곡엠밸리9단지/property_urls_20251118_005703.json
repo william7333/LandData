@@ -1,0 +1,418 @@
+{
+  "수집정보": {
+    "수집시간": "2025-11-18T00:57:03.112628",
+    "시작URL": "https://fin.land.naver.com/complexes/131224?tab=article&transactionPyeongTypeNumber=1&transactionTradeType=A1",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+    "총매물수": 50,
+    "클릭횟수": 5
+  },
+  "매물URL목록": [
+    {
+      "순번": 1,
+      "매물ID": "2561839463",
+      "URL": "https://fin.land.naver.com/articles/2561839463",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 2,
+      "매물ID": "2561696161",
+      "URL": "https://fin.land.naver.com/articles/2561696161",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 3,
+      "매물ID": "2561713358",
+      "URL": "https://fin.land.naver.com/articles/2561713358",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 4,
+      "매물ID": "2561351038",
+      "URL": "https://fin.land.naver.com/articles/2561351038",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 5,
+      "매물ID": "2561895122",
+      "URL": "https://fin.land.naver.com/articles/2561895122",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 6,
+      "매물ID": "2561818387",
+      "URL": "https://fin.land.naver.com/articles/2561818387",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 7,
+      "매물ID": "2559263775",
+      "URL": "https://fin.land.naver.com/articles/2559263775",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 8,
+      "매물ID": "2561639218",
+      "URL": "https://fin.land.naver.com/articles/2561639218",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 9,
+      "매물ID": "2561714591",
+      "URL": "https://fin.land.naver.com/articles/2561714591",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 10,
+      "매물ID": "2561708720",
+      "URL": "https://fin.land.naver.com/articles/2561708720",
+      "매물정보": "네이버페이 부동산에서 보기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 11,
+      "매물ID": "2560144930",
+      "URL": "https://fin.land.naver.com/articles/2560144930",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 12,
+      "매물ID": "2560868374",
+      "URL": "https://fin.land.naver.com/articles/2560868374",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 13,
+      "매물ID": "2557516486",
+      "URL": "https://fin.land.naver.com/articles/2557516486",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 14,
+      "매물ID": "2557487590",
+      "URL": "https://fin.land.naver.com/articles/2557487590",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 15,
+      "매물ID": "2561196077",
+      "URL": "https://fin.land.naver.com/articles/2561196077",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 16,
+      "매물ID": "2561195379",
+      "URL": "https://fin.land.naver.com/articles/2561195379",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 17,
+      "매물ID": "2561716238",
+      "URL": "https://fin.land.naver.com/articles/2561716238",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 18,
+      "매물ID": "2561890485",
+      "URL": "https://fin.land.naver.com/articles/2561890485",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 19,
+      "매물ID": "2561851857",
+      "URL": "https://fin.land.naver.com/articles/2561851857",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 20,
+      "매물ID": "2560134500",
+      "URL": "https://fin.land.naver.com/articles/2560134500",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 21,
+      "매물ID": "2560730116",
+      "URL": "https://fin.land.naver.com/articles/2560730116",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 22,
+      "매물ID": "2561910247",
+      "URL": "https://fin.land.naver.com/articles/2561910247",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 23,
+      "매물ID": "2561766546",
+      "URL": "https://fin.land.naver.com/articles/2561766546",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 24,
+      "매물ID": "2561754417",
+      "URL": "https://fin.land.naver.com/articles/2561754417",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 25,
+      "매물ID": "2560959874",
+      "URL": "https://fin.land.naver.com/articles/2560959874",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 26,
+      "매물ID": "2561645724",
+      "URL": "https://fin.land.naver.com/articles/2561645724",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 27,
+      "매물ID": "2561312850",
+      "URL": "https://fin.land.naver.com/articles/2561312850",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 28,
+      "매물ID": "2560491905",
+      "URL": "https://fin.land.naver.com/articles/2560491905",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 29,
+      "매물ID": "2560063696",
+      "URL": "https://fin.land.naver.com/articles/2560063696",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 30,
+      "매물ID": "2559774576",
+      "URL": "https://fin.land.naver.com/articles/2559774576",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 31,
+      "매물ID": "2560062377",
+      "URL": "https://fin.land.naver.com/articles/2560062377",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 32,
+      "매물ID": "2559714994",
+      "URL": "https://fin.land.naver.com/articles/2559714994",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 33,
+      "매물ID": "2559774133",
+      "URL": "https://fin.land.naver.com/articles/2559774133",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 34,
+      "매물ID": "2561227656",
+      "URL": "https://fin.land.naver.com/articles/2561227656",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 35,
+      "매물ID": "2559773888",
+      "URL": "https://fin.land.naver.com/articles/2559773888",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 36,
+      "매물ID": "2559531855",
+      "URL": "https://fin.land.naver.com/articles/2559531855",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 37,
+      "매물ID": "2559429919",
+      "URL": "https://fin.land.naver.com/articles/2559429919",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 38,
+      "매물ID": "2559424005",
+      "URL": "https://fin.land.naver.com/articles/2559424005",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 39,
+      "매물ID": "2559442233",
+      "URL": "https://fin.land.naver.com/articles/2559442233",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 40,
+      "매물ID": "2559311161",
+      "URL": "https://fin.land.naver.com/articles/2559311161",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 41,
+      "매물ID": "2559213242",
+      "URL": "https://fin.land.naver.com/articles/2559213242",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 42,
+      "매물ID": "2559227907",
+      "URL": "https://fin.land.naver.com/articles/2559227907",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 43,
+      "매물ID": "2560312383",
+      "URL": "https://fin.land.naver.com/articles/2560312383",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 44,
+      "매물ID": "2560210010",
+      "URL": "https://fin.land.naver.com/articles/2560210010",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 45,
+      "매물ID": "2560121190",
+      "URL": "https://fin.land.naver.com/articles/2560121190",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 46,
+      "매물ID": "2559939797",
+      "URL": "https://fin.land.naver.com/articles/2559939797",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 47,
+      "매물ID": "2559058980",
+      "URL": "https://fin.land.naver.com/articles/2559058980",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 48,
+      "매물ID": "2559050932",
+      "URL": "https://fin.land.naver.com/articles/2559050932",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 49,
+      "매물ID": "2556794570",
+      "URL": "https://fin.land.naver.com/articles/2556794570",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    },
+    {
+      "순번": 50,
+      "매물ID": "2559040888",
+      "URL": "https://fin.land.naver.com/articles/2559040888",
+      "매물정보": "매물 보러가기",
+      "표시여부": "표시됨"
+    }
+  ],
+  "클릭분석": {
+    "클릭된요소": [
+      {
+        "timestamp": "2025-11-17T15:56:53.825Z",
+        "tagName": "BUTTON",
+        "className": "ArticleCard_button-expand__Tpi_1",
+        "id": "",
+        "text": "매물목록 펼치기",
+        "href": "",
+        "parentTag": "DIV",
+        "parentClass": "ArticleCard_area-data__IKt2p"
+      },
+      {
+        "timestamp": "2025-11-17T15:56:55.418Z",
+        "tagName": "BUTTON",
+        "className": "ArticleCard_button-expand__Tpi_1",
+        "id": "",
+        "text": "매물목록 펼치기",
+        "href": "",
+        "parentTag": "DIV",
+        "parentClass": "ArticleCard_area-data__IKt2p"
+      },
+      {
+        "timestamp": "2025-11-17T15:56:56.874Z",
+        "tagName": "BUTTON",
+        "className": "ArticleCard_button-expand__Tpi_1",
+        "id": "",
+        "text": "매물목록 펼치기",
+        "href": "",
+        "parentTag": "DIV",
+        "parentClass": "ArticleCard_area-data__IKt2p"
+      },
+      {
+        "timestamp": "2025-11-17T15:56:58.325Z",
+        "tagName": "BUTTON",
+        "className": "ArticleCard_button-expand__Tpi_1",
+        "id": "",
+        "text": "매물목록 펼치기",
+        "href": "",
+        "parentTag": "DIV",
+        "parentClass": "ArticleCard_area-data__IKt2p"
+      },
+      {
+        "timestamp": "2025-11-17T15:56:59.446Z",
+        "tagName": "BUTTON",
+        "className": "ArticleCard_button-expand__Tpi_1",
+        "id": "",
+        "text": "매물목록 펼치기",
+        "href": "",
+        "parentTag": "DIV",
+        "parentClass": "ArticleCard_area-data__IKt2p"
+      }
+    ],
+    "클릭패턴": [
+      "BUTTON.ArticleCard_button-expand__Tpi_1"
+    ]
+  }
+}

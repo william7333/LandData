@@ -1,0 +1,37 @@
+{
+  "단지정보": {
+    "순번": 66,
+    "단지ID": "100760",
+    "단지명": "아파트60세대1988. 8.(38년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/100760?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:48:02.129853",
+    "매물수": 5
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559816640",
+      "URL": "https://fin.land.naver.com/articles/2559816640",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561251349",
+      "URL": "https://fin.land.naver.com/articles/2561251349",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559821636",
+      "URL": "https://fin.land.naver.com/articles/2559821636",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556963924",
+      "URL": "https://fin.land.naver.com/articles/2556963924",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556744252",
+      "URL": "https://fin.land.naver.com/articles/2556744252",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

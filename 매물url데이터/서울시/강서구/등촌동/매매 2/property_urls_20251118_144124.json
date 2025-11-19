@@ -1,0 +1,42 @@
+{
+  "단지정보": {
+    "순번": 45,
+    "단지ID": "12518",
+    "단지명": "매매 2",
+    "단지URL": "https://fin.land.naver.com/complexes/12518?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:41:24.631640",
+    "매물수": 6
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561849011",
+      "URL": "https://fin.land.naver.com/articles/2561849011",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561385963",
+      "URL": "https://fin.land.naver.com/articles/2561385963",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561378921",
+      "URL": "https://fin.land.naver.com/articles/2561378921",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560676894",
+      "URL": "https://fin.land.naver.com/articles/2560676894",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558081439",
+      "URL": "https://fin.land.naver.com/articles/2558081439",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559054004",
+      "URL": "https://fin.land.naver.com/articles/2559054004",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

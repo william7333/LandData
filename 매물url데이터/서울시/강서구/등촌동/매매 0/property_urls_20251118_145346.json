@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 86,
+    "단지ID": "131779",
+    "단지명": "매매 0",
+    "단지URL": "https://fin.land.naver.com/complexes/131779?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:53:46.697634",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560760483",
+      "URL": "https://fin.land.naver.com/articles/2560760483",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560609720",
+      "URL": "https://fin.land.naver.com/articles/2560609720",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560612935",
+      "URL": "https://fin.land.naver.com/articles/2560612935",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556603439",
+      "URL": "https://fin.land.naver.com/articles/2556603439",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

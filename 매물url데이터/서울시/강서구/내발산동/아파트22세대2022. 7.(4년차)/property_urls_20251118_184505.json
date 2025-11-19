@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 58,
+    "단지ID": "152399",
+    "단지명": "아파트22세대2022. 7.(4년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/152399?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:45:05.442914",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2558726338",
+      "URL": "https://fin.land.naver.com/articles/2558726338",
+      "매물정보": "네이버페이 부동산에서 보기"
+    },
+    {
+      "매물ID": "2558303452",
+      "URL": "https://fin.land.naver.com/articles/2558303452",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558301893",
+      "URL": "https://fin.land.naver.com/articles/2558301893",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

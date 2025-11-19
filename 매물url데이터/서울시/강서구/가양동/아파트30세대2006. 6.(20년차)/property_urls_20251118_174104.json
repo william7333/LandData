@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 32,
+    "단지ID": "100236",
+    "단지명": "아파트30세대2006. 6.(20년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/100236?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:41:04.848660",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561046176",
+      "URL": "https://fin.land.naver.com/articles/2561046176",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560890139",
+      "URL": "https://fin.land.naver.com/articles/2560890139",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558229385",
+      "URL": "https://fin.land.naver.com/articles/2558229385",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557493363",
+      "URL": "https://fin.land.naver.com/articles/2557493363",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

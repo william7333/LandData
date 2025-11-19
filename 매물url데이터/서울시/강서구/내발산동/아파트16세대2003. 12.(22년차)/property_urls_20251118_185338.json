@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 94,
+    "단지ID": "24807",
+    "단지명": "아파트16세대2003. 12.(22년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/24807?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:53:38.887512",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2559361613",
+      "URL": "https://fin.land.naver.com/articles/2559361613",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561213163",
+      "URL": "https://fin.land.naver.com/articles/2561213163",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558105016",
+      "URL": "https://fin.land.naver.com/articles/2558105016",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558482508",
+      "URL": "https://fin.land.naver.com/articles/2558482508",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

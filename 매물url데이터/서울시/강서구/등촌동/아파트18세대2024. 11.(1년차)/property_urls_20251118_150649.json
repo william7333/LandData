@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 142,
+    "단지ID": "174800",
+    "단지명": "아파트18세대2024. 11.(1년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/174800?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T15:06:49.325470",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560381088",
+      "URL": "https://fin.land.naver.com/articles/2560381088",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560741353",
+      "URL": "https://fin.land.naver.com/articles/2560741353",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560130834",
+      "URL": "https://fin.land.naver.com/articles/2560130834",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

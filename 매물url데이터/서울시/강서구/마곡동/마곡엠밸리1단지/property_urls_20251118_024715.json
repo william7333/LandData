@@ -1,0 +1,72 @@
+{
+  "단지정보": {
+    "순번": 44,
+    "단지ID": "107482",
+    "단지명": "마곡엠밸리1단지",
+    "단지URL": "https://fin.land.naver.com/complexes/107482?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T02:47:15.136221",
+    "매물수": 12
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561710851",
+      "URL": "https://fin.land.naver.com/articles/2561710851",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561752306",
+      "URL": "https://fin.land.naver.com/articles/2561752306",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561241711",
+      "URL": "https://fin.land.naver.com/articles/2561241711",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560968684",
+      "URL": "https://fin.land.naver.com/articles/2560968684",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559838674",
+      "URL": "https://fin.land.naver.com/articles/2559838674",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561921851",
+      "URL": "https://fin.land.naver.com/articles/2561921851",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561921462",
+      "URL": "https://fin.land.naver.com/articles/2561921462",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561752640",
+      "URL": "https://fin.land.naver.com/articles/2561752640",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561752497",
+      "URL": "https://fin.land.naver.com/articles/2561752497",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560238001",
+      "URL": "https://fin.land.naver.com/articles/2560238001",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558006452",
+      "URL": "https://fin.land.naver.com/articles/2558006452",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560763264",
+      "URL": "https://fin.land.naver.com/articles/2560763264",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

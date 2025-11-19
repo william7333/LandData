@@ -1,0 +1,47 @@
+{
+  "단지정보": {
+    "순번": 30,
+    "단지ID": "22762",
+    "단지명": "아파트49세대2005. 6.(21년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/22762?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:38:09.281339",
+    "매물수": 7
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561700624",
+      "URL": "https://fin.land.naver.com/articles/2561700624",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561790238",
+      "URL": "https://fin.land.naver.com/articles/2561790238",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561849245",
+      "URL": "https://fin.land.naver.com/articles/2561849245",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561662306",
+      "URL": "https://fin.land.naver.com/articles/2561662306",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561722191",
+      "URL": "https://fin.land.naver.com/articles/2561722191",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560177743",
+      "URL": "https://fin.land.naver.com/articles/2560177743",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558693253",
+      "URL": "https://fin.land.naver.com/articles/2558693253",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

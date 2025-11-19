@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 8,
+    "단지ID": "1012",
+    "단지명": "아파트642세대1999. 3.(27년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/1012?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T17:34:13.093070",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561842259",
+      "URL": "https://fin.land.naver.com/articles/2561842259",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561830265",
+      "URL": "https://fin.land.naver.com/articles/2561830265",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

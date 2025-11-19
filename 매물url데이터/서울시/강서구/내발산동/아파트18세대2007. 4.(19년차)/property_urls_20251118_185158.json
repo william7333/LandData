@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 87,
+    "단지ID": "101729",
+    "단지명": "아파트18세대2007. 4.(19년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/101729?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:51:58.776260",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561249464",
+      "URL": "https://fin.land.naver.com/articles/2561249464",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561998809",
+      "URL": "https://fin.land.naver.com/articles/2561998809",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2561246764",
+      "URL": "https://fin.land.naver.com/articles/2561246764",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

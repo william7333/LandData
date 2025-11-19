@@ -1,0 +1,27 @@
+{
+  "단지정보": {
+    "순번": 113,
+    "단지ID": "141897",
+    "단지명": "아파트16세대2021. 6.(5년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/141897?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:58:53.757892",
+    "매물수": 3
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560036979",
+      "URL": "https://fin.land.naver.com/articles/2560036979",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560888006",
+      "URL": "https://fin.land.naver.com/articles/2560888006",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558702411",
+      "URL": "https://fin.land.naver.com/articles/2558702411",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

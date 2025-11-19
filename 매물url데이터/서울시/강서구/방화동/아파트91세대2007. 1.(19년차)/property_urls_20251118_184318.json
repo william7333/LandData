@@ -1,0 +1,22 @@
+{
+  "단지정보": {
+    "순번": 47,
+    "단지ID": "25451",
+    "단지명": "아파트91세대2007. 1.(19년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/25451?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T18:43:18.856783",
+    "매물수": 2
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561662129",
+      "URL": "https://fin.land.naver.com/articles/2561662129",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557726932",
+      "URL": "https://fin.land.naver.com/articles/2557726932",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "단지정보": {
+    "순번": 30,
+    "단지ID": "127100",
+    "단지명": "아파트220세대2022. 3.(4년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/127100?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:36:35.349918",
+    "매물수": 8
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2560878950",
+      "URL": "https://fin.land.naver.com/articles/2560878950",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2560921265",
+      "URL": "https://fin.land.naver.com/articles/2560921265",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559517210",
+      "URL": "https://fin.land.naver.com/articles/2559517210",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558472291",
+      "URL": "https://fin.land.naver.com/articles/2558472291",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558555928",
+      "URL": "https://fin.land.naver.com/articles/2558555928",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2558643805",
+      "URL": "https://fin.land.naver.com/articles/2558643805",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557724239",
+      "URL": "https://fin.land.naver.com/articles/2557724239",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557671770",
+      "URL": "https://fin.land.naver.com/articles/2557671770",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}

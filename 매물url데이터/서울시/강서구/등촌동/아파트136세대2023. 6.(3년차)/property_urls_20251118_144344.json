@@ -1,0 +1,32 @@
+{
+  "단지정보": {
+    "순번": 53,
+    "단지ID": "156237",
+    "단지명": "아파트136세대2023. 6.(3년차)",
+    "단지URL": "https://fin.land.naver.com/complexes/156237?tab=article&articleTradeTypes=A1",
+    "수집시간": "2025-11-18T14:43:44.222415",
+    "매물수": 4
+  },
+  "매물URL목록": [
+    {
+      "매물ID": "2561441086",
+      "URL": "https://fin.land.naver.com/articles/2561441086",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2559547984",
+      "URL": "https://fin.land.naver.com/articles/2559547984",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2557412548",
+      "URL": "https://fin.land.naver.com/articles/2557412548",
+      "매물정보": "매물 보러가기"
+    },
+    {
+      "매물ID": "2556329446",
+      "URL": "https://fin.land.naver.com/articles/2556329446",
+      "매물정보": "매물 보러가기"
+    }
+  ]
+}
